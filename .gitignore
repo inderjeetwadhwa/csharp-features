@@ -1,0 +1,6 @@
+log.txt
+\csharp-features/bin
+\csharp-features/obj
+\csharp-features.test/bin
+\csharp-features.test/obj
+.vscode/
