@@ -7,6 +7,7 @@ namespace csharp_features
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            RunPoly.Run(null);
         }
     }
 }
